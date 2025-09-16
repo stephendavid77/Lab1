@@ -2,7 +2,7 @@
 //  Lab1UITests.swift
 //  Lab1UITests
 //
-//  Created by Srini Arul David on 9/8/25.
+//  Created by Stephen David on 9/8/25.
 //
 
 import XCTest

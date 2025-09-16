@@ -2,7 +2,7 @@
 //  Lab1Tests.swift
 //  Lab1Tests
 //
-//  Created by Srini Arul David on 9/8/25.
+//  Created by Stephen David on 9/8/25.
 //
 
 import Testing
